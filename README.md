@@ -10,20 +10,21 @@ StepSTM
 ---
 ## Features
 
-- STM32F411CEU6 microcontroller (100 MHz system clock, blackpill)
+- STM32F411CEU6 board (100 MHz system clock, blackpill clone)
 - 4-axis stepper motor control
-- 4 interchangeable stepper driver modules
+- 4 interchangeable stepper driver modules (modular driver configuration)
 - Selectable UART or SPI driver communication
 - Integrated MOSFET ideal diode reverse polarity protection
 - Wi-Fi connectivity
-- Wired UART connectivity (isolated power)
-- Modular driver configuration
+- Wired UART connectivity
 - OnStep compatible
 - TMC driver support (tmc5160, tmc2130, tmc2209, etc)
-- High-current power input (max 12A (work in progress)
+- High-current power input (max 12A)
 - 12~25V
 
 ## Images
+<img src="./imgs/stepstm_board.png" width="70%" height="auto">
+<img src="./imgs/stepstm_vid.gif" width="70%" height="auto">
 <img src="./imgs/pcb_3d.png" width="70%" height="auto">
 <img src="./imgs/StepSTM.png" width="70%" height="auto">
 <img src="./imgs/Ideal_Diode.png" width="70%" height="auto">
