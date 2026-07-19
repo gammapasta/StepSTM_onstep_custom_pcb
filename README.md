@@ -1,6 +1,6 @@
 # StepSTM_onstep_custom_pcb
 StepSTM
-4 axis stepper motor controller board using STM32
+4 axis stepper motor controller interface board using STM32
 
 
 
